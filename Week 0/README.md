@@ -1,0 +1,1 @@
+[Lecture]: https://video.cs50.io/4zy0z5W0-w4?screen=BM5yvg_UJ-g
